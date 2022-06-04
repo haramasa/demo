@@ -1,0 +1,11 @@
+name: demo
+title: demo
+username:
+account: haramasa
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6281545
+bundleId: 5895922
+url: https://haramasa.shinyapps.io/demo/
+when: 1652286724.43865
+lastSyncTime: 1652286724.43872
